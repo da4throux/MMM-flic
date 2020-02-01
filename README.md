@@ -45,4 +45,9 @@ Basic use case: click on flic and the layout of the MMM automatically change.
 ```
 8. if you want to use MMM-flic to change profile, if not already done, install [MMM-ProfileSwitcher](https://github.com/tosti007/MMM-ProfileSwitcher) to leverage the profile change notification.
 
-# v0.1.1
+# Roadmap
+. Investigating leveraging a hub running on the network instead of having to start a server and register the flic button on it
+. Share a script to start what is needed (server, websocket server in particular)
+. setup a rotating profile (one click browing through a list the different), instead of acting a specific type of click to a specific profile
+
+# v0.1.2
